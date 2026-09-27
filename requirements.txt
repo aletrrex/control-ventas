@@ -3,3 +3,4 @@ pandas
 streamlit-lottie
 Pillow
 pyzbar
+vercel
